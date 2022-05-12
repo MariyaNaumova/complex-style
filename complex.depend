@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1648807036 source:d:\dsm417\laba6\mycomplex.cpp
+	<iostream>
+	<cmath>
+	"mycomplex.h"
+
+1648810617 d:\dsm417\laba6\mycomplex.h
+	<iostream>
+
+1648810819 source:d:\dsm417\laba6\testcmp.cpp
+	<iostream>
+	"mycomplex.h"
+
+1199156722 source:d:\dsm417\laba8\mycomplex.cpp
+	<iostream>
+	<cmath>
+	"mycomplex.h"
+
+1649417810 d:\dsm417\laba8\mycomplex.h
+	<iostream>
+
+1648812134 source:d:\dsm417\laba8\testcmp.cpp
+	<iostream>
+	"mycomplex.h"
+
